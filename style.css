@@ -1,0 +1,24 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+input {
+	width: 100px;
+	height: 30px;
+}
+textarea {
+	width: 370px;
+	height: 100px;
+}
+.box {
+	font-size: 16px;
+	font-weight: bold;
+	color: lightgoldenrodyellow;
+	background-color: darkblue;
+	border: 2px solid #370174;
+	border-radius: 5px;
+	margin: 15px;
+	padding: 15px;
+	text-align: center;
+}
